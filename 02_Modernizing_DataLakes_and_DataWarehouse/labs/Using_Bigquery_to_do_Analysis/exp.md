@@ -90,5 +90,8 @@ Description: It returns position number element in ARRAY
 
 https://cloud.google.com/bigquery/docs/reference/standard-sql/arrays
 
-Query Explanation:  
+### Query Explanation
+This query returns most(Limit 10 DESC num_trips)  common duration( indexing 5 in 10 sections quantile)
+
+
 
