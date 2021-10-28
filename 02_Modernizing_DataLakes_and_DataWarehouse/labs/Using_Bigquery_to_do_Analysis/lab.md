@@ -211,5 +211,10 @@ Join rainy day and biketrip(FROM bicycle_rentals AS bk
 JOIN rainy_days AS wx) . Then , return average trips in rainy day(ON wx.date = bk.trip_date)
 
 
+### Query Result
+
+![image](https://user-images.githubusercontent.com/50165842/139187337-b50cc8aa-78d1-4411-95da-6bda9b12df27.png)
+
+New Yorkers ride the bicycle 47% fewer times when it rains.
 
 
